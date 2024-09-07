@@ -1,8 +1,6 @@
 # CUSTOM
 *.zip
 Google-Recaptcha-V2-Images/
-models/
-logs
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
