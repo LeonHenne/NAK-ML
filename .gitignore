@@ -1,12 +1,15 @@
 # CUSTOM
 *.zip
+Google-Recaptcha-V2-Images/
+models/
+logs
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
 
-# C extensions
+# C extensionss
 *.so
 
 # Distribution / packaging
